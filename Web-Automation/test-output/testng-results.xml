@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="89" passed="89">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Automation" duration-ms="361753" started-at="2021-06-03T17:06:56 IST" finished-at="2021-06-03T17:12:58 IST">
+    <groups>
+    </groups>
+    <test name="AssignmentLogs" duration-ms="361753" started-at="2021-06-03T17:06:56 IST" finished-at="2021-06-03T17:12:58 IST">
+      <class name="com.sgsoft.AssignsLogs.LogAssign_6">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="launchBrowser" duration-ms="2662" started-at="2021-06-03T17:09:38 IST" finished-at="2021-06-03T17:09:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="navigate" duration-ms="39526" started-at="2021-06-03T17:09:40 IST" finished-at="2021-06-03T17:10:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="login" duration-ms="4330" started-at="2021-06-03T17:10:20 IST" finished-at="2021-06-03T17:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="minimizeFlyOutWindow" duration-ms="22" started-at="2021-06-03T17:10:24 IST" finished-at="2021-06-03T17:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="createCustomer" duration-ms="37" started-at="2021-06-03T17:10:24 IST" finished-at="2021-06-03T17:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="createProject" duration-ms="25" started-at="2021-06-03T17:10:24 IST" finished-at="2021-06-03T17:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="modifyProject()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="modifyProject" duration-ms="11684" started-at="2021-06-03T17:10:24 IST" finished-at="2021-06-03T17:10:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyProject -->
+        <test-method status="PASS" signature="deleteProject()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="deleteProject" duration-ms="8239" started-at="2021-06-03T17:10:36 IST" finished-at="2021-06-03T17:10:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:9, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="deleteCustomer" duration-ms="33" started-at="2021-06-03T17:10:44 IST" finished-at="2021-06-03T17:10:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:10, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="logout" duration-ms="24" started-at="2021-06-03T17:10:44 IST" finished-at="2021-06-03T17:10:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:11, instance:com.sgsoft.AssignsLogs.LogAssign_6@77f99a05]" name="closeApplication" duration-ms="26" started-at="2021-06-03T17:10:44 IST" finished-at="2021-06-03T17:10:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_6 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_7">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="launchBrowser" duration-ms="3085" started-at="2021-06-03T17:10:44 IST" finished-at="2021-06-03T17:10:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="navigate" duration-ms="62732" started-at="2021-06-03T17:10:47 IST" finished-at="2021-06-03T17:11:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="login" duration-ms="4311" started-at="2021-06-03T17:11:50 IST" finished-at="2021-06-03T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="minimizeFlyOutWindow" duration-ms="35" started-at="2021-06-03T17:11:54 IST" finished-at="2021-06-03T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="createCustomer" duration-ms="29" started-at="2021-06-03T17:11:54 IST" finished-at="2021-06-03T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="createProject" duration-ms="52" started-at="2021-06-03T17:11:54 IST" finished-at="2021-06-03T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="createTask()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="createTask" duration-ms="60" started-at="2021-06-03T17:11:54 IST" finished-at="2021-06-03T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTask -->
+        <test-method status="PASS" signature="deleteTasks()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="deleteTasks" duration-ms="8542" started-at="2021-06-03T17:11:54 IST" finished-at="2021-06-03T17:12:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTasks -->
+        <test-method status="PASS" signature="deleteProject()[pri:9, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="deleteProject" duration-ms="3320" started-at="2021-06-03T17:12:03 IST" finished-at="2021-06-03T17:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:10, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="deleteCustomer" duration-ms="29" started-at="2021-06-03T17:12:06 IST" finished-at="2021-06-03T17:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:11, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="logout" duration-ms="2737" started-at="2021-06-03T17:12:06 IST" finished-at="2021-06-03T17:12:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:12, instance:com.sgsoft.AssignsLogs.LogAssign_7@63440df3]" name="closeApplication" duration-ms="208" started-at="2021-06-03T17:12:09 IST" finished-at="2021-06-03T17:12:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_7 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_2">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="launchBrowser" duration-ms="2963" started-at="2021-06-03T17:07:38 IST" finished-at="2021-06-03T17:07:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="navigate" duration-ms="8850" started-at="2021-06-03T17:07:41 IST" finished-at="2021-06-03T17:07:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="login" duration-ms="4343" started-at="2021-06-03T17:07:50 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="minimizeFlyOutWindow" duration-ms="28" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="createUser" duration-ms="36" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="modifyUser()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="modifyUser" duration-ms="24" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="deleteUser" duration-ms="16" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="logout" duration-ms="32" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:9, instance:com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811]" name="closeApplication" duration-ms="68" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_2 -->
+      <class name="com.sgsoft.AssignsLogs.AdvancedAssign2">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="launchBrowser" duration-ms="2453" started-at="2021-06-03T17:12:31 IST" finished-at="2021-06-03T17:12:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="navigate" duration-ms="6625" started-at="2021-06-03T17:12:34 IST" finished-at="2021-06-03T17:12:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="createUser1()[pri:3, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="createUser1" duration-ms="8590" started-at="2021-06-03T17:12:40 IST" finished-at="2021-06-03T17:12:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser1 -->
+        <test-method status="PASS" signature="createUser2()[pri:4, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="createUser2" duration-ms="1173" started-at="2021-06-03T17:12:49 IST" finished-at="2021-06-03T17:12:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser2 -->
+        <test-method status="PASS" signature="createUser3()[pri:5, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="createUser3" duration-ms="1148" started-at="2021-06-03T17:12:50 IST" finished-at="2021-06-03T17:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser3 -->
+        <test-method status="PASS" signature="modifyUser1()[pri:6, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="modifyUser1" duration-ms="1115" started-at="2021-06-03T17:12:51 IST" finished-at="2021-06-03T17:12:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser1 -->
+        <test-method status="PASS" signature="modifyUser2()[pri:7, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="modifyUser2" duration-ms="1141" started-at="2021-06-03T17:12:52 IST" finished-at="2021-06-03T17:12:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser2 -->
+        <test-method status="PASS" signature="modifyUser3()[pri:8, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="modifyUser3" duration-ms="1154" started-at="2021-06-03T17:12:53 IST" finished-at="2021-06-03T17:12:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUser3 -->
+        <test-method status="PASS" signature="deleteUser3()[pri:9, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="deleteUser3" duration-ms="1143" started-at="2021-06-03T17:12:55 IST" finished-at="2021-06-03T17:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser3 -->
+        <test-method status="PASS" signature="deleteUser2()[pri:10, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="deleteUser2" duration-ms="1142" started-at="2021-06-03T17:12:56 IST" finished-at="2021-06-03T17:12:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser2 -->
+        <test-method status="PASS" signature="deleteUser1()[pri:11, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="deleteUser1" duration-ms="1129" started-at="2021-06-03T17:12:57 IST" finished-at="2021-06-03T17:12:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser1 -->
+        <test-method status="PASS" signature="closeApplication()[pri:12, instance:com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297]" name="closeApplication" duration-ms="76" started-at="2021-06-03T17:12:58 IST" finished-at="2021-06-03T17:12:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.AdvancedAssign2 -->
+      <class name="com.sgsoft.AssignsLogs.AdvancedAssign1">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="launchBrowser" duration-ms="3073" started-at="2021-06-03T17:12:09 IST" finished-at="2021-06-03T17:12:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="navigate" duration-ms="4969" started-at="2021-06-03T17:12:12 IST" finished-at="2021-06-03T17:12:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="createUser1()[pri:3, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="createUser1" duration-ms="9120" started-at="2021-06-03T17:12:17 IST" finished-at="2021-06-03T17:12:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser1 -->
+        <test-method status="PASS" signature="createUser2()[pri:4, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="createUser2" duration-ms="35" started-at="2021-06-03T17:12:26 IST" finished-at="2021-06-03T17:12:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser2 -->
+        <test-method status="PASS" signature="createUser3()[pri:5, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="createUser3" duration-ms="14" started-at="2021-06-03T17:12:27 IST" finished-at="2021-06-03T17:12:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser3 -->
+        <test-method status="PASS" signature="loginLogout()[pri:6, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="loginLogout" duration-ms="3416" started-at="2021-06-03T17:12:27 IST" finished-at="2021-06-03T17:12:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogout -->
+        <test-method status="PASS" signature="deleteUser1()[pri:7, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="deleteUser1" duration-ms="1122" started-at="2021-06-03T17:12:30 IST" finished-at="2021-06-03T17:12:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser1 -->
+        <test-method status="PASS" signature="deleteUser2()[pri:8, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="deleteUser2" duration-ms="27" started-at="2021-06-03T17:12:31 IST" finished-at="2021-06-03T17:12:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser2 -->
+        <test-method status="PASS" signature="deleteUser3()[pri:9, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="deleteUser3" duration-ms="17" started-at="2021-06-03T17:12:31 IST" finished-at="2021-06-03T17:12:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser3 -->
+        <test-method status="PASS" signature="closeApplication()[pri:10, instance:com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6]" name="closeApplication" duration-ms="71" started-at="2021-06-03T17:12:31 IST" finished-at="2021-06-03T17:12:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.AdvancedAssign1 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_3">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="launchBrowser" duration-ms="2656" started-at="2021-06-03T17:07:54 IST" finished-at="2021-06-03T17:07:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="navigate" duration-ms="33391" started-at="2021-06-03T17:07:57 IST" finished-at="2021-06-03T17:08:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="login" duration-ms="4388" started-at="2021-06-03T17:08:30 IST" finished-at="2021-06-03T17:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="minimizeFlyOutWindow" duration-ms="44" started-at="2021-06-03T17:08:35 IST" finished-at="2021-06-03T17:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="createCustomer" duration-ms="29" started-at="2021-06-03T17:08:35 IST" finished-at="2021-06-03T17:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="deleteCustomer" duration-ms="29" started-at="2021-06-03T17:08:35 IST" finished-at="2021-06-03T17:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="logout" duration-ms="28" started-at="2021-06-03T17:08:35 IST" finished-at="2021-06-03T17:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9]" name="closeApplication" duration-ms="2192" started-at="2021-06-03T17:08:35 IST" finished-at="2021-06-03T17:08:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_3 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_4">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="launchBrowser" duration-ms="2301" started-at="2021-06-03T17:08:37 IST" finished-at="2021-06-03T17:08:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="navigate" duration-ms="7603" started-at="2021-06-03T17:08:40 IST" finished-at="2021-06-03T17:08:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="login" duration-ms="4628" started-at="2021-06-03T17:08:47 IST" finished-at="2021-06-03T17:08:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="minimizeFlyOutWindow" duration-ms="228" started-at="2021-06-03T17:08:52 IST" finished-at="2021-06-03T17:08:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="createCustomer" duration-ms="50" started-at="2021-06-03T17:08:52 IST" finished-at="2021-06-03T17:08:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="modifyCustomer()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="modifyCustomer" duration-ms="24719" started-at="2021-06-03T17:08:52 IST" finished-at="2021-06-03T17:09:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="deleteCustomer" duration-ms="1893" started-at="2021-06-03T17:09:17 IST" finished-at="2021-06-03T17:09:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="logout" duration-ms="2959" started-at="2021-06-03T17:09:19 IST" finished-at="2021-06-03T17:09:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:9, instance:com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4]" name="closeApplication" duration-ms="81" started-at="2021-06-03T17:09:22 IST" finished-at="2021-06-03T17:09:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_4 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_5">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="launchBrowser" duration-ms="2860" started-at="2021-06-03T17:09:22 IST" finished-at="2021-06-03T17:09:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="navigate" duration-ms="5961" started-at="2021-06-03T17:09:25 IST" finished-at="2021-06-03T17:09:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="login" duration-ms="4460" started-at="2021-06-03T17:09:31 IST" finished-at="2021-06-03T17:09:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="minimizeFlyOutWindow" duration-ms="22" started-at="2021-06-03T17:09:35 IST" finished-at="2021-06-03T17:09:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createCustomer()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="createCustomer" duration-ms="27" started-at="2021-06-03T17:09:35 IST" finished-at="2021-06-03T17:09:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createProject()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="createProject" duration-ms="21" started-at="2021-06-03T17:09:35 IST" finished-at="2021-06-03T17:09:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="deleteProject()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="deleteProject" duration-ms="2400" started-at="2021-06-03T17:09:35 IST" finished-at="2021-06-03T17:09:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProject -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="deleteCustomer" duration-ms="25" started-at="2021-06-03T17:09:37 IST" finished-at="2021-06-03T17:09:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:9, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="logout" duration-ms="24" started-at="2021-06-03T17:09:37 IST" finished-at="2021-06-03T17:09:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:10, instance:com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3]" name="closeApplication" duration-ms="21" started-at="2021-06-03T17:09:38 IST" finished-at="2021-06-03T17:09:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_5 -->
+      <class name="com.sgsoft.AssignsLogs.LogAssign_1">
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="launchBrowser" duration-ms="7103" started-at="2021-06-03T17:06:56 IST" finished-at="2021-06-03T17:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="navigate" duration-ms="27624" started-at="2021-06-03T17:07:04 IST" finished-at="2021-06-03T17:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="login" duration-ms="4520" started-at="2021-06-03T17:07:31 IST" finished-at="2021-06-03T17:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="minimizeFlyOutWindow()[pri:4, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="minimizeFlyOutWindow" duration-ms="451" started-at="2021-06-03T17:07:36 IST" finished-at="2021-06-03T17:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimizeFlyOutWindow -->
+        <test-method status="PASS" signature="createUser()[pri:5, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="createUser" duration-ms="38" started-at="2021-06-03T17:07:36 IST" finished-at="2021-06-03T17:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:6, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="deleteUser" duration-ms="103" started-at="2021-06-03T17:07:36 IST" finished-at="2021-06-03T17:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="logout" duration-ms="45" started-at="2021-06-03T17:07:36 IST" finished-at="2021-06-03T17:07:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApplication()[pri:8, instance:com.sgsoft.AssignsLogs.LogAssign_1@27f723]" name="closeApplication" duration-ms="1675" started-at="2021-06-03T17:07:36 IST" finished-at="2021-06-03T17:07:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.sgsoft.AssignsLogs.LogAssign_1 -->
+    </test> <!-- AssignmentLogs -->
+  </suite> <!-- TestNG Automation -->
+</testng-results>

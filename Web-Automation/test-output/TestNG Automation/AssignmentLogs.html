@@ -1,0 +1,524 @@
+<html>
+<head>
+<title>TestNG:  AssignmentLogs</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>AssignmentLogs</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>89/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jun 03 17:06:56 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>361 seconds (361753 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.modifyUser3()'><b>modifyUser3</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.deleteCustomer()'><b>deleteCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.deleteCustomer()'><b>deleteCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>8</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.createCustomer()'><b>createCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.modifyCustomer()'><b>modifyCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>24</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.modifyUser1()'><b>modifyUser1</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.deleteUser1()'><b>deleteUser1</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.deleteProject()'><b>deleteProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>3</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>6</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.createCustomer()'><b>createCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>3</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.deleteUser2()'><b>deleteUser2</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.createUser2()'><b>createUser2</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>7</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.deleteCustomer()'><b>deleteCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.createUser()'><b>createUser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.deleteUser()'><b>deleteUser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.deleteProject()'><b>deleteProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.createTask()'><b>createTask</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.createCustomer()'><b>createCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>27</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.deleteUser3()'><b>deleteUser3</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.deleteCustomer()'><b>deleteCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.createProject()'><b>createProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>3</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.createUser3()'><b>createUser3</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.createUser2()'><b>createUser2</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.deleteProject()'><b>deleteProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>8</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_1.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_1@27f723</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>5</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.deleteCustomer()'><b>deleteCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.deleteTasks()'><b>deleteTasks</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>8</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>7</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>39</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.createUser1()'><b>createUser1</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>9</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.loginLogout()'><b>loginLogout</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>3</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.deleteUser1()'><b>deleteUser1</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.deleteUser2()'><b>deleteUser2</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.modifyUser()'><b>modifyUser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.modifyUser2()'><b>modifyUser2</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>1</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.createUser()'><b>createUser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_4.createCustomer()'><b>createCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_4</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_4@1a3869f4</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.deleteUser()'><b>deleteUser</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.modifyProject()'><b>modifyProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>11</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.closeApplication()'><b>closeApplication</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_6.createProject()'><b>createProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_6</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_6@77f99a05</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>62</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.logout()'><b>logout</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_5.createCustomer()'><b>createCustomer</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_5</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_5@a38d7a3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.createUser3()'><b>createUser3</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign1.deleteUser3()'><b>deleteUser3</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign1</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign1@3aeaafa6</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_7.createProject()'><b>createProject</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_7</td>
+<td></td>
+<td>0</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_7@63440df3</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_2.login()'><b>login</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_2</td>
+<td></td>
+<td>4</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_2@1e7c7811</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.createUser1()'><b>createUser1</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>8</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.LogAssign_3.navigate()'><b>navigate</b><br>Test class: com.sgsoft.AssignsLogs.LogAssign_3</td>
+<td></td>
+<td>33</td>
+<td>com.sgsoft.AssignsLogs.LogAssign_3@77ec78b9</td></tr>
+<tr>
+<td title='com.sgsoft.AssignsLogs.AdvancedAssign2.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgsoft.AssignsLogs.AdvancedAssign2</td>
+<td></td>
+<td>2</td>
+<td>com.sgsoft.AssignsLogs.AdvancedAssign2@76a3e297</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Automation">
+	<test name="AssignmentLogs">
+		<classes>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_1"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_2"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_3"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_4"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_5"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_6"></class>
+			<class name="com.sgsoft.AssignsLogs.LogAssign_7"></class>
+			<class name="com.sgsoft.AssignsLogs.AdvancedAssign1"></class>
+			<class name="com.sgsoft.AssignsLogs.AdvancedAssign2"></class>
+		</classes>
+	</test>
+</suite>

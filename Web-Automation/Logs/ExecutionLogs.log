@@ -1,0 +1,309 @@
+2021-06-03 17:06:56 INFO  AssignsLogs, LogAssign_1:21 - The launchBrowser() method has started
+2021-06-03 17:06:56 INFO  AssignsLogs, LogAssign_1:22 - Getting default user directory path
+2021-06-03 17:07:02 INFO  AssignsLogs, LogAssign_1:26 - Chrome browser has launched successfully!!!!
+2021-06-03 17:07:04 INFO  AssignsLogs, LogAssign_1:28 - Chrome browser is maximized
+2021-06-03 17:07:04 INFO  AssignsLogs, LogAssign_1:29 - The launchBrowser() method has ended
+2021-06-03 17:07:04 INFO  AssignsLogs, LogAssign_1:30 - ------------------------------------------
+2021-06-03 17:07:04 INFO  AssignsLogs, LogAssign_1:41 - The navigate() method has started
+2021-06-03 17:07:04 INFO  AssignsLogs, LogAssign_1:42 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:07:31 INFO  AssignsLogs, LogAssign_1:45 - Login page of 'actiTime' is displayed
+2021-06-03 17:07:31 INFO  AssignsLogs, LogAssign_1:46 - The navigate() method has ended
+2021-06-03 17:07:31 INFO  AssignsLogs, LogAssign_1:47 - ------------------------------------------
+2021-06-03 17:07:31 INFO  AssignsLogs, LogAssign_1:58 - The login() method has started
+2021-06-03 17:07:31 INFO  AssignsLogs, LogAssign_1:59 - In login page, Entering the Username as 'admin'
+2021-06-03 17:07:33 INFO  AssignsLogs, LogAssign_1:62 - In login page, Entering the Password as 'manager'
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:65 - In login page, Clicking on LOGIN button
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:67 - The login() method has ended
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:68 - ------------------------------------------
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:79 - Home page is displayed
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:80 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:81 - Minimizing the Flyout window
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:95 - The createUser() method has started
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:96 - Clicking on USER
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:132 - The deleteUser() method has started
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:156 - The logout() method has started
+2021-06-03 17:07:36 INFO  AssignsLogs, LogAssign_1:172 - The closeApplication() method has started
+2021-06-03 17:07:38 INFO  AssignsLogs, LogAssign_1:174 - Chrome browser closed successfully!!!!
+2021-06-03 17:07:38 INFO  AssignsLogs, LogAssign_1:175 - The closeApplication() method has ended
+2021-06-03 17:07:38 INFO  AssignsLogs, LogAssign_1:176 - ------------------------------------------
+2021-06-03 17:07:38 INFO  AssignsLogs, LogAssign_2:22 - The launchBrowser() method has started
+2021-06-03 17:07:38 INFO  AssignsLogs, LogAssign_2:23 - Getting default user directory path
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:27 - Chrome browser has launched successfully!!!!
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:29 - Chrome browser is maximized
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:30 - The launchBrowser() method has ended
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:31 - ------------------------------------------
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:42 - The navigate() method has started
+2021-06-03 17:07:41 INFO  AssignsLogs, LogAssign_2:43 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:07:50 INFO  AssignsLogs, LogAssign_2:46 - Login page of 'actiTime' is displayed
+2021-06-03 17:07:50 INFO  AssignsLogs, LogAssign_2:47 - The navigate() method has ended
+2021-06-03 17:07:50 INFO  AssignsLogs, LogAssign_2:48 - ------------------------------------------
+2021-06-03 17:07:50 INFO  AssignsLogs, LogAssign_2:59 - The login() method has started
+2021-06-03 17:07:50 INFO  AssignsLogs, LogAssign_2:60 - In login page, Entering the Username as 'admin'
+2021-06-03 17:07:52 INFO  AssignsLogs, LogAssign_2:63 - In login page, Entering the Password as 'manager'
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:66 - In login page, Clicking on LOGIN button
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:68 - The login() method has ended
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:69 - ------------------------------------------
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:80 - Home page is displayed
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:81 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:82 - Minimizing the Flyout window
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:96 - The createUser() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:97 - Clicking on USER
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:133 - The modifyUser() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:166 - The deleteUser() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:190 - The logout() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:206 - The closeApplication() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:208 - Chrome browser closed successfully!!!!
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:209 - The closeApplication() method has ended
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_2:210 - ------------------------------------------
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_3:21 - The launchBrowser() method has started
+2021-06-03 17:07:54 INFO  AssignsLogs, LogAssign_3:22 - Getting default user directory path
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:26 - Chrome browser has launched successfully!!!!
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:28 - Chrome browser is maximized
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:29 - The launchBrowser() method has ended
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:30 - ------------------------------------------
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:41 - The navigate() method has started
+2021-06-03 17:07:57 INFO  AssignsLogs, LogAssign_3:42 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:08:30 INFO  AssignsLogs, LogAssign_3:45 - Login page of 'actiTime' is displayed
+2021-06-03 17:08:30 INFO  AssignsLogs, LogAssign_3:46 - The navigate() method has ended
+2021-06-03 17:08:30 INFO  AssignsLogs, LogAssign_3:47 - ------------------------------------------
+2021-06-03 17:08:30 INFO  AssignsLogs, LogAssign_3:58 - The login() method has started
+2021-06-03 17:08:31 INFO  AssignsLogs, LogAssign_3:59 - In login page, Entering the Username as 'admin'
+2021-06-03 17:08:33 INFO  AssignsLogs, LogAssign_3:62 - In login page, Entering the Password as 'manager'
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:65 - In login page, Clicking on LOGIN button
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:67 - The login() method has ended
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:68 - ------------------------------------------
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:79 - Home page is displayed
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:80 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:81 - Minimizing the Flyout window
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:95 - The createCustomer() method has started
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:123 - The deleteCustomer() method has started
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:149 - The logout() method has started
+2021-06-03 17:08:35 INFO  AssignsLogs, LogAssign_3:165 - The closeApplication() method has started
+2021-06-03 17:08:37 INFO  AssignsLogs, LogAssign_3:167 - Chrome browser closed successfully!!!!
+2021-06-03 17:08:37 INFO  AssignsLogs, LogAssign_3:168 - The closeApplication() method has ended
+2021-06-03 17:08:37 INFO  AssignsLogs, LogAssign_3:169 - ------------------------------------------
+2021-06-03 17:08:37 INFO  AssignsLogs, LogAssign_4:20 - The launchBrowser() method has started
+2021-06-03 17:08:37 INFO  AssignsLogs, LogAssign_4:21 - Getting default user directory path
+2021-06-03 17:08:39 INFO  AssignsLogs, LogAssign_4:25 - Chrome browser has launched successfully!!!!
+2021-06-03 17:08:40 INFO  AssignsLogs, LogAssign_4:27 - Chrome browser is maximized
+2021-06-03 17:08:40 INFO  AssignsLogs, LogAssign_4:28 - The launchBrowser() method has ended
+2021-06-03 17:08:40 INFO  AssignsLogs, LogAssign_4:29 - ------------------------------------------
+2021-06-03 17:08:40 INFO  AssignsLogs, LogAssign_4:40 - The navigate() method has started
+2021-06-03 17:08:40 INFO  AssignsLogs, LogAssign_4:41 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:08:47 INFO  AssignsLogs, LogAssign_4:44 - Login page of 'actiTime' is displayed
+2021-06-03 17:08:47 INFO  AssignsLogs, LogAssign_4:45 - The navigate() method has ended
+2021-06-03 17:08:47 INFO  AssignsLogs, LogAssign_4:46 - ------------------------------------------
+2021-06-03 17:08:47 INFO  AssignsLogs, LogAssign_4:57 - The login() method has started
+2021-06-03 17:08:47 INFO  AssignsLogs, LogAssign_4:58 - In login page, Entering the Username as 'admin'
+2021-06-03 17:08:49 INFO  AssignsLogs, LogAssign_4:61 - In login page, Entering the Password as 'manager'
+2021-06-03 17:08:51 INFO  AssignsLogs, LogAssign_4:64 - In login page, Clicking on LOGIN button
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:66 - The login() method has ended
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:67 - ------------------------------------------
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:78 - Home page is displayed
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:79 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:80 - Minimizing the Flyout window
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:94 - The createCustomer() method has started
+2021-06-03 17:08:52 INFO  AssignsLogs, LogAssign_4:122 - The modifyCustomer() method has started
+2021-06-03 17:09:17 INFO  AssignsLogs, LogAssign_4:146 - The deleteCustomer() method has started
+2021-06-03 17:09:19 INFO  AssignsLogs, LogAssign_4:173 - The logout() method has started
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:176 - Clicked on LOGOUT button
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:177 - The logout() method has ended
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:178 - ------------------------------------------
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:189 - The closeApplication() method has started
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:191 - Chrome browser closed successfully!!!!
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:192 - The closeApplication() method has ended
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_4:193 - ------------------------------------------
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_5:20 - The launchBrowser() method has started
+2021-06-03 17:09:22 INFO  AssignsLogs, LogAssign_5:21 - Getting default user directory path
+2021-06-03 17:09:24 INFO  AssignsLogs, LogAssign_5:25 - Chrome browser has launched successfully!!!!
+2021-06-03 17:09:25 INFO  AssignsLogs, LogAssign_5:27 - Chrome browser is maximized
+2021-06-03 17:09:25 INFO  AssignsLogs, LogAssign_5:28 - The launchBrowser() method has ended
+2021-06-03 17:09:25 INFO  AssignsLogs, LogAssign_5:29 - ------------------------------------------
+2021-06-03 17:09:25 INFO  AssignsLogs, LogAssign_5:40 - The navigate() method has started
+2021-06-03 17:09:25 INFO  AssignsLogs, LogAssign_5:41 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:09:31 INFO  AssignsLogs, LogAssign_5:44 - Login page of 'actiTime' is displayed
+2021-06-03 17:09:31 INFO  AssignsLogs, LogAssign_5:45 - The navigate() method has ended
+2021-06-03 17:09:31 INFO  AssignsLogs, LogAssign_5:46 - ------------------------------------------
+2021-06-03 17:09:31 INFO  AssignsLogs, LogAssign_5:57 - The login() method has started
+2021-06-03 17:09:31 INFO  AssignsLogs, LogAssign_5:58 - In login page, Entering the Username as 'admin'
+2021-06-03 17:09:33 INFO  AssignsLogs, LogAssign_5:61 - In login page, Entering the Password as 'manager'
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:64 - In login page, Clicking on LOGIN button
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:66 - The login() method has ended
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:67 - ------------------------------------------
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:78 - Home page is displayed
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:79 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:80 - Minimizing the Flyout window
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:94 - The createCustomer() method has started
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:122 - The createProject() method has started
+2021-06-03 17:09:35 INFO  AssignsLogs, LogAssign_5:148 - The deleteProject() method has started
+2021-06-03 17:09:37 INFO  AssignsLogs, LogAssign_5:176 - The deleteCustomer() method has started
+2021-06-03 17:09:37 INFO  AssignsLogs, LogAssign_5:202 - The logout() method has started
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_5:218 - The closeApplication() method has started
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_5:220 - Chrome browser closed successfully!!!!
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_5:221 - The closeApplication() method has ended
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_5:222 - ------------------------------------------
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_6:20 - The launchBrowser() method has started
+2021-06-03 17:09:38 INFO  AssignsLogs, LogAssign_6:21 - Getting default user directory path
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:25 - Chrome browser has launched successfully!!!!
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:27 - Chrome browser is maximized
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:28 - The launchBrowser() method has ended
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:29 - ------------------------------------------
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:40 - The navigate() method has started
+2021-06-03 17:09:40 INFO  AssignsLogs, LogAssign_6:41 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:10:20 INFO  AssignsLogs, LogAssign_6:44 - Login page of 'actiTime' is displayed
+2021-06-03 17:10:20 INFO  AssignsLogs, LogAssign_6:45 - The navigate() method has ended
+2021-06-03 17:10:20 INFO  AssignsLogs, LogAssign_6:46 - ------------------------------------------
+2021-06-03 17:10:20 INFO  AssignsLogs, LogAssign_6:57 - The login() method has started
+2021-06-03 17:10:20 INFO  AssignsLogs, LogAssign_6:58 - In login page, Entering the Username as 'admin'
+2021-06-03 17:10:22 INFO  AssignsLogs, LogAssign_6:61 - In login page, Entering the Password as 'manager'
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:64 - In login page, Clicking on LOGIN button
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:66 - The login() method has ended
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:67 - ------------------------------------------
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:78 - Home page is displayed
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:79 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:80 - Minimizing the Flyout window
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:94 - The createCustomer() method has started
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:122 - The createProject() method has started
+2021-06-03 17:10:24 INFO  AssignsLogs, LogAssign_6:148 - The modifyProject() method has started
+2021-06-03 17:10:36 INFO  AssignsLogs, LogAssign_6:172 - The deleteProject() method has started
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:200 - The deleteCustomer() method has started
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:226 - The logout() method has started
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:242 - The closeApplication() method has started
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:244 - Chrome browser closed successfully!!!!
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:245 - The closeApplication() method has ended
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_6:246 - ------------------------------------------
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_7:20 - The launchBrowser() method has started
+2021-06-03 17:10:44 INFO  AssignsLogs, LogAssign_7:21 - Getting default user directory path
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:25 - Chrome browser has launched successfully!!!!
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:27 - Chrome browser is maximized
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:28 - The launchBrowser() method has ended
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:29 - ------------------------------------------
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:40 - The navigate() method has started
+2021-06-03 17:10:47 INFO  AssignsLogs, LogAssign_7:41 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:11:50 INFO  AssignsLogs, LogAssign_7:44 - Login page of 'actiTime' is displayed
+2021-06-03 17:11:50 INFO  AssignsLogs, LogAssign_7:45 - The navigate() method has ended
+2021-06-03 17:11:50 INFO  AssignsLogs, LogAssign_7:46 - ------------------------------------------
+2021-06-03 17:11:50 INFO  AssignsLogs, LogAssign_7:57 - The login() method has started
+2021-06-03 17:11:50 INFO  AssignsLogs, LogAssign_7:58 - In login page, Entering the Username as 'admin'
+2021-06-03 17:11:52 INFO  AssignsLogs, LogAssign_7:61 - In login page, Entering the Password as 'manager'
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:64 - In login page, Clicking on LOGIN button
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:66 - The login() method has ended
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:67 - ------------------------------------------
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:78 - Home page is displayed
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:79 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:80 - Minimizing the Flyout window
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:94 - The createCustomer() method has started
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:122 - The createProject() method has started
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:148 - The createTask() method has started
+2021-06-03 17:11:54 INFO  AssignsLogs, LogAssign_7:186 - The deleteTasks() method has started
+2021-06-03 17:12:03 INFO  AssignsLogs, LogAssign_7:216 - The deleteProject() method has started
+2021-06-03 17:12:06 INFO  AssignsLogs, LogAssign_7:244 - The deleteCustomer() method has started
+2021-06-03 17:12:06 INFO  AssignsLogs, LogAssign_7:270 - The logout() method has started
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:273 - Clicked on LOGOUT button
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:274 - The logout() method has ended
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:275 - ------------------------------------------
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:286 - The closeApplication() method has started
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:288 - Chrome browser closed successfully!!!!
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:289 - The closeApplication() method has ended
+2021-06-03 17:12:09 INFO  AssignsLogs, LogAssign_7:290 - ------------------------------------------
+2021-06-03 17:12:09 INFO  AssignsLogs, AdvancedAssign-1:20 - The launchBrowser() method has started
+2021-06-03 17:12:09 INFO  AssignsLogs, AdvancedAssign-1:21 - Getting default user directory path
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:25 - Chrome browser has launched successfully!!!!
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:27 - Chrome browser is maximized
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:28 - The launchBrowser() method has ended
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:29 - ------------------------------------------
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:41 - The navigate() method has started
+2021-06-03 17:12:12 INFO  AssignsLogs, AdvancedAssign-1:42 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:12:17 INFO  AssignsLogs, AdvancedAssign-1:45 - Login page of 'actiTime' is displayed
+2021-06-03 17:12:17 INFO  AssignsLogs, AdvancedAssign-1:46 - The navigate() method has ended
+2021-06-03 17:12:17 INFO  AssignsLogs, AdvancedAssign-1:47 - ------------------------------------------
+2021-06-03 17:12:17 INFO  AssignsLogs, AdvancedAssign-1:59 - The loginAsAdmin() method has started
+2021-06-03 17:12:22 INFO  AssignsLogs, AdvancedAssign-1:61 - The loginAsAdmin() method has ended
+2021-06-03 17:12:22 INFO  AssignsLogs, AdvancedAssign-1:62 - ------------------------------------------
+2021-06-03 17:12:22 INFO  AssignsLogs, AdvancedAssign-1:64 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:12:25 INFO  AssignsLogs, AdvancedAssign-1:67 - The minimizeFlyOutWindow() method has ended
+2021-06-03 17:12:25 INFO  AssignsLogs, AdvancedAssign-1:68 - ------------------------------------------
+2021-06-03 17:12:25 INFO  AssignsLogs, AdvancedAssign-1:70 - The createUser1() method has started
+2021-06-03 17:12:26 INFO  AssignsLogs, AdvancedAssign-1:105 - The createUser2() method has started
+2021-06-03 17:12:27 INFO  AssignsLogs, AdvancedAssign-1:137 - The createUser3() method has started
+2021-06-03 17:12:27 INFO  AssignsLogs, AdvancedAssign-1:175 - The loginAsUser1() method has started
+2021-06-03 17:12:27 INFO  AssignsLogs, AdvancedAssign-1:177 - The loginAsUser1() method has ended
+2021-06-03 17:12:27 INFO  AssignsLogs, AdvancedAssign-1:178 - ------------------------------------------
+2021-06-03 17:12:27 INFO  AssignsLogs, AdvancedAssign-1:180 - The logout() method has started
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:182 - The logout() method has ended
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:183 - ------------------------------------------
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:185 - The loginAsUser2() method has started
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:187 - The loginAsUser2() method has ended
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:188 - ------------------------------------------
+2021-06-03 17:12:28 INFO  AssignsLogs, AdvancedAssign-1:190 - The logout() method has started
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:192 - The logout() method has ended
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:193 - ------------------------------------------
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:195 - The loginAsUser3() method has started
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:197 - The loginAsUser3() method has ended
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:198 - ------------------------------------------
+2021-06-03 17:12:29 INFO  AssignsLogs, AdvancedAssign-1:200 - The logout() method has started
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:202 - The logout() method has ended
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:203 - ------------------------------------------
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:215 - The loginAsAdmin() method has started
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:217 - The loginAsAdmin() method has ended
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:218 - ------------------------------------------
+2021-06-03 17:12:30 INFO  AssignsLogs, AdvancedAssign-1:220 - The deleteUser1() method has started
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:250 - The deleteUser2() method has started
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:277 - The deleteUser3() method has started
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:309 - The closeApplication() method has started
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:311 - Chrome browser closed successfully!!!!
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:312 - The closeApplication() method has ended
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-1:313 - ------------------------------------------
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-2:21 - The launchBrowser() method has started
+2021-06-03 17:12:31 INFO  AssignsLogs, AdvancedAssign-2:22 - Getting default user directory path
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:26 - Chrome browser has launched successfully!!!!
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:28 - Chrome browser is maximized
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:29 - The launchBrowser() method has ended
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:30 - ------------------------------------------
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:42 - The navigate() method has started
+2021-06-03 17:12:34 INFO  AssignsLogs, AdvancedAssign-2:43 - Navigating the URL--> 'http://localhost:81/login.do'
+2021-06-03 17:12:40 INFO  AssignsLogs, AdvancedAssign-2:46 - Login page of 'actiTime' is displayed
+2021-06-03 17:12:40 INFO  AssignsLogs, AdvancedAssign-2:47 - The navigate() method has ended
+2021-06-03 17:12:40 INFO  AssignsLogs, AdvancedAssign-2:48 - ------------------------------------------
+2021-06-03 17:12:40 INFO  AssignsLogs, AdvancedAssign-2:60 - The loginAsAdmin() method has started
+2021-06-03 17:12:45 INFO  AssignsLogs, AdvancedAssign-2:62 - The loginAsAdmin() method has ended
+2021-06-03 17:12:45 INFO  AssignsLogs, AdvancedAssign-2:63 - ------------------------------------------
+2021-06-03 17:12:45 INFO  AssignsLogs, AdvancedAssign-2:65 - The minimizeFlyOutWindow() method has started
+2021-06-03 17:12:48 INFO  AssignsLogs, AdvancedAssign-2:68 - The minimizeFlyOutWindow() method has ended
+2021-06-03 17:12:48 INFO  AssignsLogs, AdvancedAssign-2:69 - ------------------------------------------
+2021-06-03 17:12:48 INFO  AssignsLogs, AdvancedAssign-2:71 - The createUser1() method has started
+2021-06-03 17:12:49 INFO  AssignsLogs, AdvancedAssign-2:113 - The loginAsUser1() method has started
+2021-06-03 17:12:49 INFO  AssignsLogs, AdvancedAssign-2:115 - The loginAsUser1() method has ended
+2021-06-03 17:12:49 INFO  AssignsLogs, AdvancedAssign-2:116 - ------------------------------------------
+2021-06-03 17:12:49 INFO  AssignsLogs, AdvancedAssign-2:118 - The createUser2() method has started
+2021-06-03 17:12:50 INFO  AssignsLogs, AdvancedAssign-2:158 - The loginAsUser2() method has started
+2021-06-03 17:12:50 INFO  AssignsLogs, AdvancedAssign-2:160 - The loginAsUser2() method has ended
+2021-06-03 17:12:50 INFO  AssignsLogs, AdvancedAssign-2:161 - ------------------------------------------
+2021-06-03 17:12:51 INFO  AssignsLogs, AdvancedAssign-2:203 - The loginAsAdmin() method has started
+2021-06-03 17:12:51 INFO  AssignsLogs, AdvancedAssign-2:205 - The loginAsAdmin() method has ended
+2021-06-03 17:12:51 INFO  AssignsLogs, AdvancedAssign-2:206 - ------------------------------------------
+2021-06-03 17:12:51 INFO  AssignsLogs, AdvancedAssign-2:208 - The modifyUser1() method has started
+2021-06-03 17:12:52 INFO  AssignsLogs, AdvancedAssign-2:249 - The loginAsUpdatedUser1() method has started
+2021-06-03 17:12:52 INFO  AssignsLogs, AdvancedAssign-2:251 - The loginAsUpdatedUser1() method has ended
+2021-06-03 17:12:52 INFO  AssignsLogs, AdvancedAssign-2:252 - ------------------------------------------
+2021-06-03 17:12:52 INFO  AssignsLogs, AdvancedAssign-2:254 - The modifyUser2() method has started
+2021-06-03 17:12:53 INFO  AssignsLogs, AdvancedAssign-2:296 - The loginAsUpdatedUser2() method has started
+2021-06-03 17:12:54 INFO  AssignsLogs, AdvancedAssign-2:298 - The loginAsUpdatedUser2() method has ended
+2021-06-03 17:12:54 INFO  AssignsLogs, AdvancedAssign-2:299 - ------------------------------------------
+2021-06-03 17:12:54 INFO  AssignsLogs, AdvancedAssign-2:301 - The modifyUser3() method has started
+2021-06-03 17:12:55 INFO  AssignsLogs, AdvancedAssign-2:343 - The loginAsUpdatedUser2() method has started
+2021-06-03 17:12:55 INFO  AssignsLogs, AdvancedAssign-2:345 - The loginAsUpdatedUser2() method has ended
+2021-06-03 17:12:55 INFO  AssignsLogs, AdvancedAssign-2:346 - ------------------------------------------
+2021-06-03 17:12:55 INFO  AssignsLogs, AdvancedAssign-2:348 - The deleteUser3() method has started
+2021-06-03 17:12:56 INFO  AssignsLogs, AdvancedAssign-2:383 - The loginAsUpdatedUser1() method has started
+2021-06-03 17:12:56 INFO  AssignsLogs, AdvancedAssign-2:385 - The loginAsUpdatedUser1() method has ended
+2021-06-03 17:12:56 INFO  AssignsLogs, AdvancedAssign-2:386 - ------------------------------------------
+2021-06-03 17:12:56 INFO  AssignsLogs, AdvancedAssign-2:388 - The deleteUser2() method has started
+2021-06-03 17:12:57 INFO  AssignsLogs, AdvancedAssign-2:423 - The loginAsAdmin() method has started
+2021-06-03 17:12:57 INFO  AssignsLogs, AdvancedAssign-2:425 - The loginAsAdmin() method has ended
+2021-06-03 17:12:57 INFO  AssignsLogs, AdvancedAssign-2:426 - ------------------------------------------
+2021-06-03 17:12:57 INFO  AssignsLogs, AdvancedAssign-2:428 - The deleteUser1() method has started
+2021-06-03 17:12:58 INFO  AssignsLogs, AdvancedAssign-2:463 - The closeApplication() method has started
+2021-06-03 17:12:58 INFO  AssignsLogs, AdvancedAssign-2:465 - Chrome browser closed successfully!!!!
+2021-06-03 17:12:58 INFO  AssignsLogs, AdvancedAssign-2:466 - The closeApplication() method has ended
+2021-06-03 17:12:58 INFO  AssignsLogs, AdvancedAssign-2:467 - ------------------------------------------
