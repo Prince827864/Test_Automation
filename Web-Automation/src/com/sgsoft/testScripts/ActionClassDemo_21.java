@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class ActionClassDemo {
+public class ActionClassDemo_21 {
 
 	public static WebDriver oBrowser=null;
 	public static void main(String[] args) {
